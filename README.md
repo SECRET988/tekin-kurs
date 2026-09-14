@@ -1,1 +1,1 @@
-# tekin-kurs
+TekinKurslar
